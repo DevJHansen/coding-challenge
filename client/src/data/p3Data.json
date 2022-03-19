@@ -1,0 +1,16 @@
+{
+  "testSet1": [
+    { "name": "obj1", "a": 1 },
+    { "name": "obj2", "b": 3 },
+    { "name": "obj3", "c": 2 },
+    { "name": "obj7", "d": 1 },
+    { "name": "obj9", "e": 4 }
+  ],
+  "testSet2": [
+    { "name": "obj1", "a": 1 },
+    { "name": "obj3", "d": 5 },
+    { "name": "obj4", "a": 1 },
+    { "name": "obj5", "c": 9 },
+    { "name": "obj9", "b": 10 }
+  ]
+}
