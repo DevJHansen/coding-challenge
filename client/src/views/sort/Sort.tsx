@@ -220,7 +220,7 @@ const Sort: React.FC = () => {
                 <TableCell>Datacenter</TableCell>
                 <TableCell>ID</TableCell>
                 <TableCell>Host Name</TableCell>
-                <TableCell align="right">Distance form Coords</TableCell>
+                <TableCell align="right">Distance from Coords</TableCell>
               </TableRow>
             </TableHead>
             <TableBody>
